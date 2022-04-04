@@ -1,0 +1,10 @@
+
+Payment Options :- 
+
+1. Credit Card
+
+2.Debit Card
+
+3. UPI Payment
+
+4. Cash
