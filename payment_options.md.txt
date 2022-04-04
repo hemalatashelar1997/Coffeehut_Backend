@@ -8,3 +8,7 @@ Payment Options :-
 3. UPI Payment
 
 4. Cash
+
+5. Coffeehut Wallet - a)Collect loyalty points and get them converted into currency for your next order 
+                        b)On One order you will get 5 cool points
+                        c)10 Coll points -> RS 50
